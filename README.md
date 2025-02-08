@@ -1,2 +1,9 @@
 # MIDI-Machine-Learning
-Test
+
+
+# Midi Source
+https://github.com/bytedance/GiantMIDI-Piano
+
+
+# Linux Requirements
+sudo apt install fluidsynth
