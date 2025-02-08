@@ -1,4 +1,9 @@
 pretty_midi
+music21
 pyfluidsynth
 setuptools
 gdown
+
+matplotlib
+tensorflow
+pandas
