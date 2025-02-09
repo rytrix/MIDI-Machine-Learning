@@ -1,6 +1,8 @@
 # midis
 midis/
 midis.zip
+*.mid
+*.keras
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
