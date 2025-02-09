@@ -1,8 +1,5 @@
 # MIDI-Machine-Learning
-
-
-# Midi Source
-https://github.com/bytedance/GiantMIDI-Piano
+Using machine learning to generate MIDI piano music
 
 
 # Linux Requirements
@@ -15,3 +12,7 @@ pip install -r requirements.txt
 
 # External
 processor.py https://github.com/jason9693/midi-neural-processor MIT
+
+
+# Midi Training Source
+https://github.com/bytedance/GiantMIDI-Piano
