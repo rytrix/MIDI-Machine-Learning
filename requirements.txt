@@ -1,0 +1,20 @@
+pretty_midi
+music21
+pyfluidsynth
+setuptools
+gdown
+
+matplotlib
+tensorflow
+keras_hub
+scikit-learn
+pandas
+
+miditok
+miditoolkit
+symusic
+
+# GUI
+streamlit
+midi2audio
+pychord
