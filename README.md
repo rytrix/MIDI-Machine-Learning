@@ -38,4 +38,4 @@ within your python environment and provided the "models/" directory is present i
 https://github.com/bytedance/GiantMIDI-Piano
 
 # Contributors
-This project was a part of a group capstone, meaning there are and will only be the current three contributiors for this project. 
+This project was a part of a group capstone, meaning there are and will only be the current three contributiors for this project. Our git history was deleted due to hardware and filesystem being uploaded as well as the midi dataset, making the git history several hundred megabytes.
